@@ -23,6 +23,11 @@ body{
 }
 input{
     border: #32161F 3px solid;}
+    outline: none;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    font-size: 40px;
 #lbl{
     font-size: 22px;
 }
