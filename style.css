@@ -19,6 +19,7 @@ body{
     background-color:#BA2D0B;
     color:#01110A;
     border:#32161F 3px solid;
+    touch-action: manipulation;
 }
 input{
     border: #32161F 3px solid;}
